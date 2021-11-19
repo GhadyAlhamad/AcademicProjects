@@ -1,4 +1,4 @@
-# <b>Billiard</b>
+# <b>Billiard by ghady alhamad</b>
 It's academic project using openGL / C++ for billiard table (NOT Game, just 3D drawing with modling hitting balls by stick). <br/>
 Ghady Alhamad - Syrian Virtual University - Information Software Engineering <br/>
 Implemented in 2008
