@@ -3,13 +3,13 @@ It's academic project using openGL / C++ for billiard table (NOT Game, just 3D d
 Ghady Alhamad - Syrian Virtual University - Information Software Engineering <br/>
 Implemented in 2008
 
-![Billiard Table](../Billiard/texture/b1.png)
+![Billiard1](../Billiard/texture/b1.png?raw=true)
 
-![Billiard Table](https://user-images.githubusercontent.com/26169492/124508029-b9369000-ddd7-11eb-9f1e-4c780de1dffc.png)
+![Billiard2](../Billiard/texture/b2.png?raw=true)
 
-![image](https://user-images.githubusercontent.com/26169492/124508304-54c80080-ddd8-11eb-8e57-767a70930883.png)
+![Billiard3](../Billiard/texture/b3.png?raw=true)
 
-![image](https://user-images.githubusercontent.com/26169492/124508317-5db8d200-ddd8-11eb-9710-8c41d9546ea1.png)
+![Billiard4](../Billiard/texture/b4.png?raw=true)
 
  <br/> <br/>
 For more info about this project:
